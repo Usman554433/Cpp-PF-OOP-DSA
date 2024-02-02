@@ -14,13 +14,13 @@ If player-1 says ‘P’ and player-2 says ‘R’, you'll print "Player 1 wins"
 
 Task-3:
 Write a C++ code to find the grade from marks. The user is required to input marks obtained and then the program gives him a grade according to his marks. The gradingscale is shown below:
-   Marks     Grade
--> 90-100    A+
--> 80-89     A
--> 70-79     B
--> 60-69     C
--> 50-59     D
--> 00-49     F
+  Marks     Grade
+- 90-100    A+
+- 80-89     A
+- 70-79     B
+- 60-69     C
+- 50-59     D
+- 00-49     F
 
 Task-4: 
 Write a program that convert double (Data Type) to Integer (Data Type) using Implicit type conversion and Explicit type conversion.
