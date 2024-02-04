@@ -18,24 +18,17 @@ for(int i = 0; i<n; i++)
 cout<<"*";
 Use these code segments within a loop to create programs that can print
 the following patterns Filled Square of height H The value of H will be given
-by the user Sample output for H = 8
-* * * * * * * *
-* * * * * * * *
-* * * * * * * *
-* * * * * * * *
-* * * * * * * *
-* * * * * * * *
-* * * * * * * *
-* * * * * * * *
+by the user Sample output for H = 4
+* * * * 
+* * * * 
+* * * * 
+* * * * 
 
 Hollow Square of height H The value of H will be given by the user
 Sample output for H = 6
-* * * * * *
-*         *
-*         *
-*         *
-*         *
-* * * * * *
+*  *  *
+*     *
+*  *  *
 
 TASK-3:
 Write a C++ program to prints the first n terms of the following Fibonacci
