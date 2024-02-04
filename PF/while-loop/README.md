@@ -25,7 +25,7 @@ Celsius from 50F TO 100F with an increment 5 by using while loop.
 TASK-7: 
 Write a program that displays the following using while loop.
 Output:
--4 4 4 4
--3 3 3
--2 2
--1
+4 4 4 (endl)
+3 3 3 (endl)
+2 2 (endl)
+1 
