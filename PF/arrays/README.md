@@ -32,6 +32,10 @@ void twoSum(int nums[], int target)
 - Output: Because nums[0] + nums[1] == 9, we display [0, 1].
 
 TASK-5:
-
-
-TASK-6:
+Given two sorted arrays nums1 and nums2 of size m and n respectively, write a function that return the
+median of the two sorted arrays.
+double findMedianSortedArrays(int nums1[], int nums2[])
+- Example 1:
+- Input: nums1 = [1,3], nums2 = [2]
+- Output: 2.00000
+- Explanation: merged array = [1,2,3] and median is 2.
