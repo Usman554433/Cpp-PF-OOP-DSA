@@ -16,7 +16,8 @@ The driver program should include a loop that lets the user repeat the grade cal
 user enters -1.
 
 TASK-3:
-
+void resverse_Array(int arr [ ], int size), Implement the function reverse_Array. Don’t print the array.
+Take care of even and odd size. Only function implementation is required. Don’t declare any new array.
 
 TASK-4:
 
