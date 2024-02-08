@@ -49,7 +49,14 @@ TASK-7:
 Write a program for addition/subtraction of two Matrices of same size.
 
 TASK-8:
-
+Write a user defined function named Upper-half() which takes a two dimensional array A, with
+size N rows and N columns as argument and prints the upper half of the array.
+e.g.,
+- 2 3 1 5 0                               2 3 1 5 0
+- 7 1 5 3 1                                 1 5 3 1
+- 2 5 7 8 1   Output will be:                 1 7 8
+- 0 1 5 0 1                                     0 1
+- 3 4 9 1 5                                       5
 
 TASK-9:
 
