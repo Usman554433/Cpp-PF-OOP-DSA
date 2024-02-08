@@ -11,7 +11,7 @@ character grade against marks out of 100. The character grade is determined as f
 - If the marks are more than 50 but less than 65 the grade is C
 - If the marks are less than 50 the grade is F
 The function’s signature should be as follows:
-void calculateGrade( int marks, char &amp;grade)
+void calculateGrade( int marks, char &grade)
 The driver program should include a loop that lets the user repeat the grade calculation until the
 user enters -1.
 
@@ -77,7 +77,7 @@ Sample Run:
 - 1
 
 TASK-10:
-Write a program which reads a square matrix from a file and then allow to rotate 90
+Write a program which inputs a square matrix from user and then allow to rotate 90
 degree(anti clock wise rotation), -90 degree(clock wise rotation). After that it should
 allow 180 rotation or 270 or any multiple of 90. Similarly any multiple of -90 degree.
 
