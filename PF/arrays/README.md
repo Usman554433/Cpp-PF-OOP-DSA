@@ -39,3 +39,25 @@ double findMedianSortedArrays(int nums1[], int nums2[])
 - Input: nums1 = [1,3], nums2 = [2]
 - Output: 2.00000
 - Explanation: merged array = [1,2,3] and median is 2.
+
+TASK-6:
+Write a program which should detect whether a given matrix is identity or not.
+An identity matrix is a matrix is a matrix whose diagonal entries are 1 and non-
+diagonal entries are 0.
+
+TASK-7:
+Write a program for addition/subtraction of two Matrices of same size.
+
+TASK-8:
+
+
+TASK-9:
+
+
+TASK-10:
+
+
+TASK-11:
+
+
+TASK-12:
