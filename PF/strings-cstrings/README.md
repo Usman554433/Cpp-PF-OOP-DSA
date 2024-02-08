@@ -19,7 +19,14 @@ Write a function to Remove all Characters including spaces in a String Except Al
 - Filtered String: IloveProgramming
 
 TASK-4:
-
+Create a function that tweaks letters by one forward (+1) or backwards (-1) according to an array and store the result in an array named tweakedArray and print it in the function.
+- Examples:
+- tweakLetters("apple", {0, 1, -1, 0, -1}) ➞ "aqold"
+- // "p" + 1 => "q";  "p" - 1 => "o";  "e" - 1 =>"d"
+- tweakLetters("many", {0, 0, 0, -1}) ➞ "manx"
+- tweakLetters("rhino", {1, 1, 1, 1, 1}) ➞ "sijop"
+Notes
+Don't worry about capital letters.
 
 TASK-5:
 
