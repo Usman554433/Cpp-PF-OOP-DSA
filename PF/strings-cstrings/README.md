@@ -13,7 +13,10 @@ TASK-2:
 Write a function that returns the frequency of a character in string. Use C-strings.
 
 TASK-3:
-
+Write a function to Remove all Characters including spaces in a String Except Alphabets.
+- Example:
+- Enter a string: I2love !Programming
+- Filtered String: IloveProgramming
 
 TASK-4:
 
