@@ -117,3 +117,28 @@ week by anyone monkey. Input Validation: Do not
 accept negative numbers for pounds of food eaten.
 
 TASK-12:
+A Simple Spell Checker
+You are asked to develop your own spell-checker
+utility. Write a program that maintains an array
+‘wordlist’ of strings. Enable the user to enter these
+strings. Store them in a file and name the file
+‘dictionary.txt’.  After this, your program should ask
+the user to enter a word. The program should then
+look up that word in the dictionary. If the word is
+present your program should print “You Spelled
+Correctly”. 
+If the word is not present in the dictionary, Your
+program should display “Word isn’t spelled
+correctly.” Next you need to find possible
+combinations of that word that could match any
+word from the dictionary. For example, the user
+wrote appl and the dictionary has the word apple in
+it. Then your program should display “did you mean
+“Apple”?”  If there is no such word present in the
+dictionary then the program should ask the user to
+add the new word to his dictionary. If yes, then add
+the new word to the file and if no, discard the new
+word.
+
+Your program should be user friendly. You need to
+take proper inputs and outputs from user.
