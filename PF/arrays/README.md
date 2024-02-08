@@ -97,6 +97,23 @@ allow 180 rotation or 270 or any multiple of 90. Similarly any multiple of -90 d
 - 9 6 3
 
 TASK-11:
+A local zoo wants to keep track of how many
+pounds of food each of its three monkeys eats each
+day during a typical week. Write a program that
+stores this information in a two-dimensional 3x5
+array, where each row represents a different
+monkey and each column represents a different
+day of the week. The program should first have the
+user input the data for each monkey. Then it should
+create a report that includes the following
+information:
+➢ The average amount of food eaten per day by
+the whole family of monkeys.
 
+➢ The least amount of food eaten during the week
+by anyone monkey.
+➢ The greatest amount of food eaten during the
+week by anyone monkey. Input Validation: Do not
+accept negative numbers for pounds of food eaten.
 
 TASK-12:
