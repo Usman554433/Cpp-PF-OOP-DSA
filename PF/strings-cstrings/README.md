@@ -10,7 +10,7 @@ numbers as per the following rules: "
 - AscDesNone([1, 2, 3, 4], "N") ➞ [1, 2, 3, 4]
 
 TASK-2:
-
+Write a function that returns the frequency of a character in string. Use C-strings.
 
 TASK-3:
 
