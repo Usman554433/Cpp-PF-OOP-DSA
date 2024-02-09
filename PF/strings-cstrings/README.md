@@ -68,3 +68,10 @@ character to the left side.
 It removes the all the the characters c and shift the remaining character to
 the left side.
 
+- VII. int Compare(char A[ ], char B[ ])
+It compares the two arrays the first string A appears first in the
+lexicographic(dictionary) order
+Then it should return -1, if both the strings are exactly the same then it
+should return 0 and returns 1 if the first string comes later in dictionary
+order than B.
+
