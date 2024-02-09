@@ -38,3 +38,7 @@ convert it into either camelCase or snake_case.
 - toSnakeCase("getColor") ➞ "get_color"
 
 TASK-6:
+- I. int strlength(char A[ ]) : It should return the size of the string
+(excluding the null character)
+E.g. if A [ ] = {“abcd”} then the function should return 4. Note: The actual
+size of the array is 5(due to null).
