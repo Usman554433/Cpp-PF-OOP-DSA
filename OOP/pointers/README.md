@@ -23,7 +23,17 @@ Output:
 Average is 6
 
 TASK-4:
-
+Write a C++ program that takes a number n from user and check is number palindrome or not
+using pointer.
+For Example:
+Input:
+Please enter number: 46729
+Output:
+Number is not a palindrome.
+Input:
+Please enter number: 53235
+Output:
+Number is a palindrome.
 
 TASK-5:
 
