@@ -59,3 +59,7 @@ many times the character appeared.
 - IV. void RemoveFirstCharacter(char A[ ] , char c)
 It removes the first place of the character c and shift the remaining
 character to the left side.
+
+- V. void RemoveLastCharacter(char A[ ] , char c)
+It removes the last place of the character c and shift the remaining
+character to the left side.
