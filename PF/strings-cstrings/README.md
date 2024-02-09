@@ -38,3 +38,45 @@ convert it into either camelCase or snake_case.
 - toSnakeCase("getColor") ➞ "get_color"
 
 TASK-6:
+- I. int strlength(char A[ ]) : It should return the size of the string
+(excluding the null character)
+E.g. if A [ ] = {“abcd”} then the function should return 4. Note: The actual
+size of the array is 5(due to null).
+
+- II. indexOf(char A[], char c) : It searches the index of specified
+character within a given string A(‘\0’ terminating character array A). It starts
+searching from beginning to the end of the string (from left to right) and
+returns the first index where it finds that character c otherwise returns -1.
+Note: If given string contains multiple occurrence of specified character
+then it returns index of only first occurrence of specified character.
+
+- III. void AllindecesOf(char A[], char c, int Occurences[], int&OccSize)
+// Accepts character as argument, Returns all indeces of the passed
+character by saving them in Occurences[ ] and set the OccSize to how
+many times the character appeared.
+// the first occurrence of specified character 
+
+- IV. void RemoveFirstCharacter(char A[ ] , char c)
+It removes the first place of the character c and shift the remaining
+character to the left side.
+
+- V. void RemoveLastCharacter(char A[ ] , char c)
+It removes the last place of the character c and shift the remaining
+character to the left side.
+
+- VI. void RemoveAllCharacters(char A[ ] , char c)
+It removes the all the the characters c and shift the remaining character to
+the left side.
+
+- VII. int Compare(char A[ ], char B[ ])
+It compares the two arrays the first string A appears first in the
+lexicographic(dictionary) order
+Then it should return -1, if both the strings are exactly the same then it
+should return 0 and returns 1 if the first string comes later in dictionary
+order than B.
+
+- VIII. void Reverse(char A[ ], int si, int ei)
+Within the given range si to ei, starting index and ending index, the string
+should be reversed. e.g. if A[ ] contains “void esreveR(char)” and si = 5
+and ei = 11 then the A[ ] should become “void Reverse(char)”
+
