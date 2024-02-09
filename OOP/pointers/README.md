@@ -15,7 +15,12 @@ Vowel: 3
 Consonant: 5
 
 TASK-3:
-
+Write C++ program which takes five numbers as input from the user and find their average.
+For Example:
+Input:
+Please enter five numbers: 6 9 3 5 7
+Output:
+Average is 6
 
 TASK-4:
 
