@@ -49,3 +49,9 @@ searching from beginning to the end of the string (from left to right) and
 returns the first index where it finds that character c otherwise returns -1.
 Note: If given string contains multiple occurrence of specified character
 then it returns index of only first occurrence of specified character.
+
+- III. void AllindecesOf(char A[], char c, int Occurences[], int&OccSize)
+// Accepts character as argument, Returns all indeces of the passed
+character by saving them in Occurences[ ] and set the OccSize to how
+many times the character appeared.
+// the first occurrence of specified character 
