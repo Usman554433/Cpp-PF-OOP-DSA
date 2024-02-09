@@ -55,3 +55,7 @@ then it returns index of only first occurrence of specified character.
 character by saving them in Occurences[ ] and set the OccSize to how
 many times the character appeared.
 // the first occurrence of specified character 
+
+- IV. void RemoveFirstCharacter(char A[ ] , char c)
+It removes the first place of the character c and shift the remaining
+character to the left side.
