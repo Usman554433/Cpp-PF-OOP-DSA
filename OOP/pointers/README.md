@@ -36,6 +36,12 @@ Output:
 Number is a palindrome.
 
 TASK-5:
-
+a) Write a C++ program that finds the median of following three integers using their
+pointers.
+const int a=5;
+const int b=10;
+const int c=12’
+b) Modify your program a little. Try to assign the value -1 to whichever integer occurs to be
+the median. The task is to be done through pointers.
 
 TASK-6:
