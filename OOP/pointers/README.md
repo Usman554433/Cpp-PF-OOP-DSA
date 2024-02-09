@@ -45,3 +45,13 @@ b) Modify your program a little. Try to assign the value -1 to whichever integer
 the median. The task is to be done through pointers.
 
 TASK-6:
+Write a C++ program which takes an n digit number as user input and check the number is
+Armstrong or not. The numbers must pass as Passing pointers to functions by value and by
+reference.
+For Example:
+Input:
+Please enter number: 153
+Output:
+Number is Armstrong.
+Working:
+(1)^3 + (5)^3 + (3)^3 = 153
