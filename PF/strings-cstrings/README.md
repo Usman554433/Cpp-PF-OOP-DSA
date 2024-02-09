@@ -75,3 +75,8 @@ Then it should return -1, if both the strings are exactly the same then it
 should return 0 and returns 1 if the first string comes later in dictionary
 order than B.
 
+- VIII. void Reverse(char A[ ], int si, int ei)
+Within the given range si to ei, starting index and ending index, the string
+should be reversed. e.g. if A[ ] contains “void esreveR(char)” and si = 5
+and ei = 11 then the A[ ] should become “void Reverse(char)”
+
