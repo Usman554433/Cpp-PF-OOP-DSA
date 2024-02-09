@@ -63,3 +63,8 @@ character to the left side.
 - V. void RemoveLastCharacter(char A[ ] , char c)
 It removes the last place of the character c and shift the remaining
 character to the left side.
+
+- VI. void RemoveAllCharacters(char A[ ] , char c)
+It removes the all the the characters c and shift the remaining character to
+the left side.
+
