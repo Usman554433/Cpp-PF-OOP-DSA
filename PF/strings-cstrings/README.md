@@ -42,3 +42,10 @@ TASK-6:
 (excluding the null character)
 E.g. if A [ ] = {“abcd”} then the function should return 4. Note: The actual
 size of the array is 5(due to null).
+
+- II. indexOf(char A[], char c) : It searches the index of specified
+character within a given string A(‘\0’ terminating character array A). It starts
+searching from beginning to the end of the string (from left to right) and
+returns the first index where it finds that character c otherwise returns -1.
+Note: If given string contains multiple occurrence of specified character
+then it returns index of only first occurrence of specified character.
