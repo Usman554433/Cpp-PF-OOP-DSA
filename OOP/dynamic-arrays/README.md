@@ -51,3 +51,13 @@ hint: The sum of n elements can be found by n * (n+1)/2 or (n+1) * (n+2)/2
 - New Array Elements: 1 2 3 4 5 6 7 8
 
 TASK-5: 
+Write a C++ program that keeps taking integer input from the user until user enters -1 and
+displays the data in reverse order.
+Your program should save the input in a dynamically allocated array. Initially create a dynamic
+array of five integers. Each time the array gets filled your program should double the size of
+array and continue taking the input. After receiving -1 (i.e. end of data input) your program
+should print the integers in the reverse order as entered by the user.
+You have to make use of the following functions for this task:
+- void Input (int * & iarr, int & size); //why is size passed by reference for this?
+- void reverse (int * iarr, int size);
+- void Output (int * iarr, int size);
