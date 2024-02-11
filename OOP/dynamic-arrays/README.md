@@ -33,6 +33,21 @@ present in array)
 - Number of free slots: 3
 
 TASK-4: 
+Take an integer ‘n’ as input from user. Create and initialize a dynamic array of size n-1 with
+elements ranging from 1 to n (no duplicates). One of the integer will be missing in the array.
+The task is to find the missing element in the array. Then grow the size of array and add the
+missing element.
+hint: The sum of n elements can be found by n * (n+1)/2 or (n+1) * (n+2)/2
 
+- For Example:
+- Input:
+- Enter the number: 8
+- Print:
+- Array of size 7 created
+- Input:
+- Enter 7 elements in range 1-8: 1 3 4 5 6 7 8
+- Output:
+- Missing Element: 2
+- New Array Elements: 1 2 3 4 5 6 7 8
 
 TASK-5: 
