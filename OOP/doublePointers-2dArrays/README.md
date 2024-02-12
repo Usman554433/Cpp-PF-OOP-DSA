@@ -66,3 +66,8 @@ of character ‘a’ from Matrix1.
 all the memory.
 
 TASK-4:
+Write a function called rotateOuterLayerBy1, which takes a 2 dimensional square matrix and
+its dimension, n, as parameters and rotate the outermost layer by one place, anti-clockwise. Use
+2D pointers to create and access the two dimensional array.
+- Constraint: Your code cannot create an extra array to accomplish the given task. But you can
+create one or two extra integers.
