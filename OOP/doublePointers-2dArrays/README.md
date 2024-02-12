@@ -51,18 +51,18 @@ accordingly.
 - specialchar = @ + # ^
 
 TASK-3:
-a) Write a function char** AllocateMemory(int& rows, int& cols) that takes size of a char
+- a) Write a function char** AllocateMemory(int& rows, int& cols) that takes size of a char
 matrix (rows and columns) from user, allocates memory for the matrix and return its pointer.
-b) Write a function void LoadMatrix(char** matrix, const int rows, const int cols) which loads
+- b) Write a function void LoadMatrix(char** matrix, const int rows, const int cols) which loads
 the data from a .txt file and store the values in the matrix.
-c) Write a function void DisplayMatrix(char** matrix, const int& rows, const int& cols) that
+- c) Write a function void DisplayMatrix(char** matrix, const int& rows, const int& cols) that
 displays the matrix in proper format.
-d) Write a function called char** removeFromMatrix(char** matrix1, const char rchar,
+- d) Write a function called char** removeFromMatrix(char** matrix1, const char rchar,
 char** matrix2, const int rows) to copy the given matrix to another matrix with all rows and
 columns containing the occurrence of a given character removed. The rows and columns at
 the end should be filled with ‘-‘. In the following example, Matrix2 is formed after removal
 of character ‘a’ from Matrix1.
-e) Write a function void DeallocateMemory(char** matrix, const int& rows) that deallocates
+- e) Write a function void DeallocateMemory(char** matrix, const int& rows) that deallocates
 all the memory.
 
 TASK-4:
