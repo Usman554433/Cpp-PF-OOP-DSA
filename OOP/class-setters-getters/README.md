@@ -11,6 +11,6 @@ Student class then the data members should have ‘0 or ‘Unknown’ values, ot
 assign the values(any) passed while creating the object of Student class
 - d) Use getter and print functions to print the values of data members
 - e) Now take the data as input from user and assign values using setter function
-f) Print the values using print function
+- f) Print the values using print function
 NOTE: Make sure that you create 3 separate files, .h file to declare class and its members,
 imp.cpp file for implementation member function of class. Driver.cpp file for main() function.
