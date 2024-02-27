@@ -34,5 +34,5 @@ TASK-9:
 
 TASK-10:
 
-TA
+TAS
 
