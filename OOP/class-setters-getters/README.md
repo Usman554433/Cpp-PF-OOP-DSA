@@ -53,7 +53,7 @@ TASK-3:
 - a) Write the definition of constructor 1 so that the private data members are initialized to 0.
 - b) Write the definition of constructor 2 so that the private data member x is initialized according
 to the value of the parameter, and the private data member y is initialized to 0.
-c) Write the definition of constructor 3 and 4 so that the private data members are initialized to
+- c) Write the definition of constructor 3 and 4 so that the private data members are initialized to
 according to the values of parameters.
 
 
