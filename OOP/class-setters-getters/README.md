@@ -17,13 +17,36 @@ assign the values(any) passed while creating the object of Student class
 imp.cpp file for implementation member function of class. Driver.cpp file for main() function.
 
 TASK-2:
-Exercise 1:
+- Exercise 1:
 - Create a class Date having following private data members:
 Int Day, 
  ,Int Month
  ,Int Year
 - Create an object of Date “date1” and run your program
 
+- Exercise 2 [Default Constructor]:
+- Write a default Constructor of Date that initializes the object to 1st January 1926 and prints
+“Default Constructor Called” in start.
+- Now run your program and test what does date1 prints?
+- Exercise 3 [Print Function]:
+- Implement a function Print in Date class which prints a date in following format:
+dd/mm/yyyy (e.g. 1/1/1926 for date1)
+- Print object date1 in your main function and run the program.
+- What does it print and how can we initialize the data of date1 at the time of creation?
+
+- Exercise 4 [Input Function]:
+- Write a function Input in your Date class that takes input from user to populate a Date object.
+- Call “date1.Input()” and “date1.Print()” in your driver program and test it.
+
+- Exercise 5 [Setters]:
+- Create an object xmasDay using default constructor.
+- Print xmasDay and see what it prints.
+- Write Setters i.e. SetDay, SetMonth and SetYear in your class.
+- Now set xmasDay to 25/12/2020 using Setters in main.
+
+- Exercise 6 [Getters]:
+- Write Getters i.e. GetDay, GetMonth and GetYear in your date class.
+Now print xmasDay using Getters in your Driver program.
 
 
 TASK-3:
