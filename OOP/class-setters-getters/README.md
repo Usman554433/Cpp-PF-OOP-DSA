@@ -17,6 +17,14 @@ assign the values(any) passed while creating the object of Student class
 imp.cpp file for implementation member function of class. Driver.cpp file for main() function.
 
 TASK-2:
+Exercise 1:
+- Create a class Date having following private data members:
+Int Day, 
+ ,Int Month
+ ,Int Year
+- Create an object of Date “date1” and run your program
+
+
 
 TASK-3:
 
