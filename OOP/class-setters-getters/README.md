@@ -1,6 +1,6 @@
 TASK-1: 
 As we already know that a class is simply a representation of a type of object. It is the blueprint/  m
-plan/template that describes the details of an object.
+plan/template that describes the details of an object.m
 Your task is to design a class for Student which contains constructors, getters, setters, input
 function and print function.
 - a) You must take any 5 necessary data members as Roll No, Name, CNIC, Degree and
