@@ -1,5 +1,5 @@
 TASK-1:
-As we already know that a class is simply a representation of a type of object. It is the blueprint/  mmm
+As we already know that a class is simply a representation of a type of object. It is the blueprint/  mmmm
 plan/template that describes the details of an object.
 Your task is to design a class for Student which contains constructors, getters, setters, input
 function and print function.
