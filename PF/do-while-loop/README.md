@@ -1,4 +1,4 @@
-TASK-1:
+TASK-1:a
 Write a program that reads the current state of telephone line. The user should enter
 w for working and d for dead state. Any other input should be considered invalid.
 Use do-while loop to force the user to enter a valid input value.
