@@ -1,4 +1,4 @@
-aTASK-1:
+TASK-1:
 A C++ program “Encrypt” that creates a dynamic char array of size defined by the user. Then
 takes input of that array from the user and resize the original array to size equal to the number of
 characters entered by the user.
